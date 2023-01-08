@@ -10,7 +10,7 @@ public class Main {
         post.surname = "Иванов";
         post.subscription = true;
 
-        post.birthday = new FormDate().toString();
+        post.birthday = new FormDate();
         post.day = 13;
         post.month = 6;
         post.year = 1999;

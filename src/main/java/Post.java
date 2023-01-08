@@ -5,8 +5,8 @@ public class Post {
     public long phone;
     public String surname;
     public boolean subscription;
-    public int day;
-    public int month;
-    public int year;
-    public String birthday;
+    int day;
+    int month;
+    int year;
+    public FormDate birthday;
 }
