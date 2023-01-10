@@ -11,9 +11,9 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
-        post.day = 13;
-        post.month = 6;
-        post.year = 1999;
+        int day = 13;
+        int month = 6;
+        int year = 1999;
 
         // заполните другие поля даты рождения
     }
